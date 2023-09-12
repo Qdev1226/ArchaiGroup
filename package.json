@@ -1,0 +1,22 @@
+{
+  "name": "archaigroup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qdev1226/ArchaiGroup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qdev1226/ArchaiGroup/issues"
+  },
+  "homepage": "https://github.com/Qdev1226/ArchaiGroup#readme",
+  "dependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
